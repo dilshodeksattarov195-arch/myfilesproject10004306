@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceurocess",
+        "uuid": 26598162,
+        "checksum": "xpvhyi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
